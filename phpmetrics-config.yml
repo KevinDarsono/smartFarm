@@ -1,0 +1,9 @@
+includes:
+      # - "app"
+    - "app/Models"
+    - "app/Http/Controllers"
+    - "app/Http/Livewire"
+    - "app/Helpers"
+report:
+    # html: "metrics/html"
+    csv: "metrics/result-before.csv"
